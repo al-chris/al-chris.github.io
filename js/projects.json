@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Portfolio Website",
+    "description": "A responsive personal portfolio website developed with HTML, CSS, and JavaScript to showcase my projects and skills.",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80",
+    "category": "web",
+    "liveLink": "https://al-chris.github.io",
+    "codeLink": "https://github.com/al-chris/al-chris.github.io"
+  },
+  {
+    "id": 2,
+    "title": "E-Commerce Platform",
+    "description": "Full-stack e-commerce application with user authentication, product management, and payment integration.",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+    "category": "web",
+    "liveLink": "https://example.com/ecommerce",
+    "codeLink": "https://github.com/al-chris/ecommerce-platform"
+  },
+  {
+    "id": 3,
+    "title": "Task Manager App",
+    "description": "A mobile application for task management with features like task creation, reminders, and categories.",
+    "image": "https://images.unsplash.com/photo-1559028012-481c04fa702d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80",
+    "category": "mobile",
+    "liveLink": "",
+    "codeLink": "https://github.com/al-chris/task-manager-app" 
+  },
+  {
+    "id": 4,
+    "title": "Weather Dashboard",
+    "description": "A web application that provides real-time weather information using weather API integration.",
+    "image": "https://images.unsplash.com/photo-1592210454359-9043f067919b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+    "category": "web",
+    "liveLink": "https://example.com/weather-dashboard",
+    "codeLink": "https://github.com/al-chris/weather-dashboard"
+  },
+  {
+    "id": 5,
+    "title": "Fitness Tracker",
+    "description": "A mobile application that tracks workout routines, nutrition, and provides fitness insights.",
+    "image": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+    "category": "mobile",
+    "liveLink": "https://example.com/fitness-tracker",
+    "codeLink": "https://github.com/al-chris/fitness-tracker"
+  },
+  {
+    "id": 6,
+    "title": "Data Analysis Tool",
+    "description": "A data visualization and analysis tool for large datasets with interactive charts and reporting.",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+    "category": "other",
+    "liveLink": "",
+    "codeLink": "https://github.com/al-chris/data-analysis-tool"
+  }
+]
