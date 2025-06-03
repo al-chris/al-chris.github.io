@@ -297,7 +297,7 @@ ul {
   border-radius: 50%;
   overflow: hidden;
   border: 5px solid var(--primary-color);
-  background: url('https://github.com/al-chris/al-chris.github.io/blob/main/images/al-chris.png') no-repeat center/cover;
+  background: url('../images/al-chris.png') no-repeat center/cover;
   box-shadow: 0 20px 30px rgba(0, 0, 0, 0.1);
 }
 
