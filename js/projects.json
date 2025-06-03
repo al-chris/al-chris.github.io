@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "title": "Portfolio Website",
-    "description": "A responsive personal portfolio website developed with HTML, CSS, and JavaScript to showcase my projects and skills.",
+    "title": "Personal Portfolio",
+    "description": "A responsive personal portfolio website built with HTML to showcase projects and skills, hosted on GitHub Pages.",
     "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80",
     "category": "web",
     "liveLink": "https://al-chris.github.io",
@@ -10,47 +10,74 @@
   },
   {
     "id": 2,
-    "title": "E-Commerce Platform",
-    "description": "Full-stack e-commerce application with user authentication, product management, and payment integration.",
-    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+    "title": "PID Game",
+    "description": "A JavaScript-based interactive game application demonstrating PID control concepts through engaging gameplay mechanics.",
+    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80",
     "category": "web",
-    "liveLink": "https://example.com/ecommerce",
-    "codeLink": "https://github.com/al-chris/ecommerce-platform"
+    "liveLink": "",
+    "codeLink": "https://github.com/al-chris/pid-game"
   },
   {
     "id": 3,
-    "title": "Task Manager App",
-    "description": "A mobile application for task management with features like task creation, reminders, and categories.",
-    "image": "https://images.unsplash.com/photo-1559028012-481c04fa702d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80",
-    "category": "mobile",
+    "title": "Test Auth",
+    "description": "Facebook login integration with Flask - a web application demonstrating social media authentication workflows.",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80",
+    "category": "web",
     "liveLink": "",
-    "codeLink": "https://github.com/al-chris/task-manager-app" 
+    "codeLink": "https://github.com/al-chris/test_auth"
   },
   {
     "id": 4,
-    "title": "Weather Dashboard",
-    "description": "A web application that provides real-time weather information using weather API integration.",
-    "image": "https://images.unsplash.com/photo-1592210454359-9043f067919b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
-    "category": "web",
-    "liveLink": "https://example.com/weather-dashboard",
-    "codeLink": "https://github.com/al-chris/weather-dashboard"
+    "title": "PingApp",
+    "description": "A simple app to keep render server awake - Python application built with Kivy for Android to maintain server uptime.",
+    "image": "https://images.unsplash.com/photo-1559028012-481c04fa702d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80",
+    "category": "mobile",
+    "liveLink": "",
+    "codeLink": "https://github.com/al-chris/pingapp"
   },
   {
     "id": 5,
-    "title": "Fitness Tracker",
-    "description": "A mobile application that tracks workout routines, nutrition, and provides fitness insights.",
-    "image": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
-    "category": "mobile",
-    "liveLink": "https://example.com/fitness-tracker",
-    "codeLink": "https://github.com/al-chris/fitness-tracker"
+    "title": "ID Code",
+    "description": "FastAPI application with SQLAlchemy and Celery for distributed task processing and database management.",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80",
+    "category": "web",
+    "liveLink": "https://idcode.ng",
+    "codeLink": "https://github.com/al-chris/id-code"
   },
   {
     "id": 6,
-    "title": "Data Analysis Tool",
-    "description": "A data visualization and analysis tool for large datasets with interactive charts and reporting.",
-    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
-    "category": "other",
+    "title": "PIPELINE",
+    "description": "Image annotation service leveraging FastAPI and Celery for background task processing with vision-language models via Ollama.",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80",
+    "category": "ai",
     "liveLink": "",
-    "codeLink": "https://github.com/al-chris/data-analysis-tool"
+    "codeLink": "https://github.com/al-chris/PIPELINE"
+  },
+  {
+    "id": 7,
+    "title": "SentinelNet",
+    "description": "Lightweight, scalable security camera platform connecting multiple IP cameras with FastAPI and OpenCV for video streaming and motion detection.",
+    "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80",
+    "category": "iot",
+    "liveLink": "",
+    "codeLink": "https://github.com/al-chris/SentinelNet"
+  },
+  {
+    "id": 8,
+    "title": "LangGraph Agent",
+    "description": "Python implementation of an intelligent agent using LangGraph for complex reasoning and task automation.",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80",
+    "category": "ai",
+    "liveLink": "",
+    "codeLink": "https://github.com/al-chris/LangGraphAgent"
+  },
+  {
+    "id": 9,
+    "title": "MicrogridSim",
+    "description": "MATLAB project for simulating and optimizing hybrid microgrid operations with PV solar, wind turbines, battery storage, and diesel generators.",
+    "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80",
+    "category": "simulation",
+    "liveLink": "",
+    "codeLink": "https://github.com/al-chris/MicrogridSim"
   }
 ]
