@@ -10,12 +10,12 @@
   },
   {
     "id": 2,
-    "title": "PID Game",
-    "description": "A JavaScript-based interactive game application demonstrating PID control concepts through engaging gameplay mechanics.",
+    "title": "WhatsApp Dashboard Web",
+    "description": "A client-side only web application for analyzing and visualizing WhatsApp chat exports.",
     "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80",
     "category": "web",
-    "liveLink": "",
-    "codeLink": "https://github.com/al-chris/pid-game"
+    "liveLink": "https://al-chris.me/whatsapp-dashboard-web/",
+    "codeLink": "https://github.com/al-chris/whatsapp-dashboard-web"
   },
   {
     "id": 3,
