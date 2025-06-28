@@ -17,7 +17,7 @@ currentYearElements.forEach(element => {
 });
 
 // Typing Animation
-const typingTexts = ["Frontend Developer", "Backend Developer", "Full Stack Developer", "Problem Solver"];
+const typingTexts = ["Backend Developer", "Full Stack Developer", "Machine Learning Engineer", "Problem Solver"];
 let textIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
